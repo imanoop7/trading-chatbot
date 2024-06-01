@@ -1,0 +1,8 @@
+langchain-community
+langchain-core
+langchain 
+langgraph 
+streamlit
+langchainhub
+tavily-python
+ollama
