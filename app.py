@@ -16,7 +16,7 @@ from langgraph.graph import StateGraph, END
 def main():
 
   
-  st.title("LangGraph + Function Call + YahooFinance 👾")
+  st.title("ChatBot")
   # Add a sidebar for model selection
   user_input = st.text_input("Enter your input here:")
 
